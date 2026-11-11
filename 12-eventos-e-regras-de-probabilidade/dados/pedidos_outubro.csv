@@ -1,0 +1,201 @@
+id_pedido,canal,status,devolvido
+1001,site,no prazo,0
+1002,app,atrasado,1
+1003,site,atrasado,0
+1004,app,no prazo,1
+1005,site,no prazo,0
+1006,app,cancelado,0
+1007,app,atrasado,0
+1008,site,no prazo,0
+1009,site,no prazo,1
+1010,app,no prazo,0
+1011,app,no prazo,0
+1012,site,no prazo,0
+1013,site,no prazo,0
+1014,site,no prazo,1
+1015,app,no prazo,0
+1016,site,no prazo,0
+1017,app,no prazo,0
+1018,site,no prazo,0
+1019,site,no prazo,0
+1020,site,no prazo,0
+1021,app,no prazo,0
+1022,app,no prazo,0
+1023,app,no prazo,0
+1024,site,no prazo,0
+1025,site,no prazo,0
+1026,site,no prazo,0
+1027,app,no prazo,0
+1028,site,atrasado,0
+1029,site,no prazo,0
+1030,site,no prazo,0
+1031,app,no prazo,0
+1032,app,no prazo,0
+1033,site,no prazo,0
+1034,app,atrasado,0
+1035,app,no prazo,0
+1036,site,no prazo,0
+1037,site,no prazo,0
+1038,site,no prazo,0
+1039,site,cancelado,0
+1040,app,atrasado,1
+1041,site,no prazo,0
+1042,site,no prazo,0
+1043,site,no prazo,0
+1044,app,atrasado,0
+1045,app,atrasado,1
+1046,app,no prazo,0
+1047,site,no prazo,0
+1048,app,atrasado,1
+1049,app,no prazo,0
+1050,app,no prazo,0
+1051,app,no prazo,0
+1052,site,no prazo,0
+1053,app,no prazo,0
+1054,app,cancelado,0
+1055,site,no prazo,0
+1056,app,no prazo,1
+1057,app,atrasado,0
+1058,app,cancelado,0
+1059,site,no prazo,0
+1060,site,no prazo,0
+1061,site,no prazo,0
+1062,app,no prazo,0
+1063,site,no prazo,0
+1064,app,no prazo,0
+1065,app,no prazo,0
+1066,site,no prazo,0
+1067,site,no prazo,0
+1068,site,no prazo,0
+1069,site,atrasado,1
+1070,app,no prazo,0
+1071,site,no prazo,0
+1072,site,atrasado,0
+1073,app,atrasado,0
+1074,app,atrasado,1
+1075,site,atrasado,0
+1076,site,no prazo,0
+1077,app,no prazo,0
+1078,site,no prazo,0
+1079,site,atrasado,0
+1080,site,atrasado,0
+1081,app,no prazo,0
+1082,site,cancelado,0
+1083,site,no prazo,0
+1084,app,no prazo,0
+1085,site,no prazo,0
+1086,site,atrasado,0
+1087,site,no prazo,0
+1088,app,cancelado,0
+1089,app,no prazo,0
+1090,site,no prazo,0
+1091,site,no prazo,0
+1092,site,no prazo,0
+1093,site,no prazo,0
+1094,app,no prazo,0
+1095,site,no prazo,0
+1096,site,no prazo,1
+1097,app,no prazo,0
+1098,site,atrasado,1
+1099,site,no prazo,0
+1100,app,no prazo,0
+1101,site,no prazo,0
+1102,app,no prazo,0
+1103,app,no prazo,0
+1104,site,no prazo,0
+1105,app,atrasado,1
+1106,site,no prazo,1
+1107,site,no prazo,0
+1108,app,no prazo,0
+1109,site,atrasado,1
+1110,site,no prazo,0
+1111,app,no prazo,1
+1112,site,atrasado,1
+1113,app,no prazo,0
+1114,site,no prazo,0
+1115,app,atrasado,1
+1116,app,atrasado,0
+1117,app,no prazo,1
+1118,app,no prazo,0
+1119,site,no prazo,0
+1120,site,atrasado,1
+1121,app,atrasado,0
+1122,site,no prazo,0
+1123,app,no prazo,0
+1124,site,no prazo,0
+1125,app,no prazo,0
+1126,site,no prazo,0
+1127,site,no prazo,0
+1128,app,no prazo,0
+1129,site,no prazo,0
+1130,app,no prazo,0
+1131,site,no prazo,0
+1132,app,atrasado,1
+1133,site,atrasado,0
+1134,site,no prazo,0
+1135,site,atrasado,0
+1136,app,atrasado,0
+1137,site,no prazo,0
+1138,site,no prazo,1
+1139,site,no prazo,0
+1140,app,atrasado,0
+1141,site,no prazo,0
+1142,site,no prazo,0
+1143,app,no prazo,0
+1144,site,no prazo,0
+1145,app,no prazo,1
+1146,app,no prazo,0
+1147,site,no prazo,0
+1148,app,no prazo,0
+1149,site,no prazo,0
+1150,app,no prazo,0
+1151,site,no prazo,0
+1152,site,no prazo,0
+1153,site,no prazo,0
+1154,app,atrasado,0
+1155,site,no prazo,0
+1156,site,atrasado,1
+1157,site,no prazo,1
+1158,site,no prazo,0
+1159,app,no prazo,0
+1160,site,no prazo,1
+1161,site,no prazo,0
+1162,site,no prazo,0
+1163,site,no prazo,0
+1164,site,no prazo,0
+1165,app,no prazo,0
+1166,app,no prazo,0
+1167,app,no prazo,0
+1168,site,no prazo,0
+1169,app,no prazo,0
+1170,app,no prazo,0
+1171,app,atrasado,0
+1172,site,no prazo,0
+1173,site,no prazo,0
+1174,app,no prazo,0
+1175,app,atrasado,0
+1176,site,no prazo,0
+1177,site,no prazo,0
+1178,site,no prazo,0
+1179,app,no prazo,0
+1180,app,no prazo,0
+1181,app,no prazo,0
+1182,app,no prazo,1
+1183,app,no prazo,0
+1184,site,no prazo,0
+1185,site,atrasado,0
+1186,app,no prazo,0
+1187,app,no prazo,0
+1188,site,no prazo,0
+1189,site,no prazo,1
+1190,app,no prazo,0
+1191,site,atrasado,0
+1192,app,atrasado,0
+1193,site,no prazo,1
+1194,app,atrasado,0
+1195,site,no prazo,0
+1196,app,no prazo,0
+1197,site,atrasado,0
+1198,app,no prazo,0
+1199,app,no prazo,1
+1200,app,no prazo,0
