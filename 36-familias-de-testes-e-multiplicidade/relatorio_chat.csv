@@ -1,0 +1,18 @@
+metrica,regiao,tipo,n_antiga,n_nova,antiga,nova,diferenca,erro_padrao,p_valor
+chamado_onde_esta_meu_pedido,todas,proporcao,640,640,0.2094,0.15,-0.0594,0.0214,0.0056
+nota_do_atendimento,Sul,media,156,145,4.081,4.2869,0.2059,0.1034,0.0465
+respondeu_a_pesquisa,Sul,proporcao,156,145,0.2756,0.3034,0.0278,0.0525,0.5963
+pediu_cancelamento,Sul,proporcao,156,145,0.0321,0.069,0.0369,0.0254,0.1464
+minutos_ate_a_resposta,Sul,media,156,145,17.8063,18.7155,0.9092,1.0589,0.3906
+nota_do_atendimento,Sudeste,media,164,169,4.1108,4.1801,0.0692,0.0989,0.4841
+respondeu_a_pesquisa,Sudeste,proporcao,164,169,0.378,0.2959,-0.0822,0.0518,0.1125
+pediu_cancelamento,Sudeste,proporcao,164,169,0.0671,0.071,0.0039,0.0279,0.8878
+minutos_ate_a_resposta,Sudeste,media,164,169,18.708,17.9863,-0.7217,0.9516,0.4482
+nota_do_atendimento,Nordeste,media,146,147,4.2197,4.0,-0.2197,0.0987,0.0261
+respondeu_a_pesquisa,Nordeste,proporcao,146,147,0.2808,0.2857,0.0049,0.0528,0.9262
+pediu_cancelamento,Nordeste,proporcao,146,147,0.0616,0.0612,-0.0004,0.0282,0.9881
+minutos_ate_a_resposta,Nordeste,media,146,147,18.6678,16.0361,-2.6317,1.048,0.012
+nota_do_atendimento,Norte e Centro-Oeste,media,174,179,3.9997,4.0837,0.084,0.0952,0.3775
+respondeu_a_pesquisa,Norte e Centro-Oeste,proporcao,174,179,0.2931,0.2905,-0.0026,0.0485,0.9573
+pediu_cancelamento,Norte e Centro-Oeste,proporcao,174,179,0.0575,0.0503,-0.0072,0.0241,0.7655
+minutos_ate_a_resposta,Norte e Centro-Oeste,media,174,179,19.1514,17.7164,-1.435,0.9216,0.1194

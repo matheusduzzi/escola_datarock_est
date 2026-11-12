@@ -1,0 +1,15 @@
+id_embalador,ordem,antiga_min,nova_min
+E01,nova_primeiro,6.50,6.25
+E02,nova_primeiro,7.89,7.49
+E03,antiga_primeiro,7.06,6.36
+E04,antiga_primeiro,4.59,3.63
+E05,nova_primeiro,5.37,4.88
+E06,antiga_primeiro,7.58,7.36
+E07,nova_primeiro,8.05,7.63
+E08,nova_primeiro,7.34,6.83
+E09,nova_primeiro,6.82,
+E10,antiga_primeiro,5.60,4.76
+E11,antiga_primeiro,4.15,4.21
+E12,antiga_primeiro,2.74,1.71
+E13,nova_primeiro,7.98,7.44
+E14,antiga_primeiro,5.71,5.50
