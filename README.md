@@ -65,14 +65,20 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [04-dispersao-e-escala/](04-dispersao-e-escala/) | Dispersão e escala |
 | [05-descrever-distribuicao/](05-descrever-distribuicao/) | Descrever distribuição |
 | [06-investigar-valores-extremos/](06-investigar-valores-extremos/) | Investigar valores extremos |
+| [07-ausencia-de-dados-e-incerteza/](07-ausencia-de-dados-e-incerteza/) | Ausência de dados e incerteza |
+| [08-covariancia-e-correlacao/](08-covariancia-e-correlacao/) | Covariância e correlação |
+| [09-investigar-associacoes/](09-investigar-associacoes/) | Investigar associações |
+| [10-por-que-associacao-nao-demonstra-causa/](10-por-que-associacao-nao-demonstra-causa/) | Por que associação não demonstra causa |
 | [11-revisar-uma-conclusao-causal/](11-revisar-uma-conclusao-causal/) | Revisar uma conclusão causal |
 | [12-eventos-e-regras-de-probabilidade/](12-eventos-e-regras-de-probabilidade/) | Eventos e regras de probabilidade |
+| [13-condicional-e-independencia/](13-condicional-e-independencia/) | Condicional e independência |
 | [14-bayes-e-taxa-base/](14-bayes-e-taxa-base/) | Bayes e taxa-base |
 | [15-variaveis-aleatorias-e-esperanca/](15-variaveis-aleatorias-e-esperanca/) | Variáveis aleatórias e esperança |
 | [16-bernoulli-binomial-e-hipergeometrica/](16-bernoulli-binomial-e-hipergeometrica/) | Bernoulli, binomial e hipergeométrica |
 | [17-poisson-e-geometrica/](17-poisson-e-geometrica/) | Poisson e geométrica |
 | [18-normal-e-exponencial/](18-normal-e-exponencial/) | Normal e exponencial |
 | [19-distribuicoes-t-e-qui-quadrado/](19-distribuicoes-t-e-qui-quadrado/) | Distribuições t e qui-quadrado |
+| [20-simular-e-confrontar-um-modelo/](20-simular-e-confrontar-um-modelo/) | Simular e confrontar um modelo |
 | [21-lei-dos-grandes-numeros-e-limite-central/](21-lei-dos-grandes-numeros-e-limite-central/) | Lei dos grandes números e limite central |
 | [22-distribuicao-amostral-por-simulacao/](22-distribuicao-amostral-por-simulacao/) | Distribuição amostral por simulação |
 | [23-estimadores-vies-e-precisao/](23-estimadores-vies-e-precisao/) | Estimadores, viés e precisão |
@@ -81,13 +87,16 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [26-intervalo-para-media-de-entregas/](26-intervalo-para-media-de-entregas/) | Intervalo para média de entregas |
 | [27-intervalo-para-proporcao/](27-intervalo-para-proporcao/) | Intervalo para proporção |
 | [28-margem-de-erro-e-sensibilidade/](28-margem-de-erro-e-sensibilidade/) | Margem de erro e sensibilidade |
+| [29-hipoteses-e-distribuicao-nula/](29-hipoteses-e-distribuicao-nula/) | Hipóteses e distribuição nula |
 | [30-a-senhora-que-prova-cha/](30-a-senhora-que-prova-cha/) | A senhora que prova chá |
 | [31-p-valor-erros-e-relevancia/](31-p-valor-erros-e-relevancia/) | P-valor, erros e relevância |
 | [32-poder-e-planejamento-de-amostra/](32-poder-e-planejamento-de-amostra/) | Poder e planejamento de amostra |
 | [33-comparar-medias-independentes-e-pareadas/](33-comparar-medias-independentes-e-pareadas/) | Comparar médias independentes e pareadas |
+| [35-aplicar-anova-e-interpretar-limites/](35-aplicar-anova-e-interpretar-limites/) | Aplicar ANOVA e interpretar limites |
 | [36-familias-de-testes-e-multiplicidade/](36-familias-de-testes-e-multiplicidade/) | Famílias de testes e multiplicidade |
 | [37-metodos-nao-parametricos-e-permutacao/](37-metodos-nao-parametricos-e-permutacao/) | Métodos não paramétricos e permutação |
 | [38-comparar-conclusoes-sob-metodos-distintos/](38-comparar-conclusoes-sob-metodos-distintos/) | Comparar conclusões sob métodos distintos |
 | [39-case-de-nutricao-pergunta-e-desenho/](39-case-de-nutricao-pergunta-e-desenho/) | Case de nutrição: pergunta e desenho |
+| [40-case-de-nutricao-analise-e-defesa/](40-case-de-nutricao-analise-e-defesa/) | Case de nutrição: análise e defesa |
 | [41-nota-de-decisao-sobre-prazo-de-entrega/](41-nota-de-decisao-sobre-prazo-de-entrega/) | Nota de decisão sobre prazo de entrega |
 | [42-banca-de-interpretacao/](42-banca-de-interpretacao/) | Banca de interpretação |
