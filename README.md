@@ -92,6 +92,7 @@ A licença de uso e redistribuição do kit ainda vai ser definida pela Escola D
 | [31-p-valor-erros-e-relevancia/](31-p-valor-erros-e-relevancia/) | P-valor, erros e relevância |
 | [32-poder-e-planejamento-de-amostra/](32-poder-e-planejamento-de-amostra/) | Poder e planejamento de amostra |
 | [33-comparar-medias-independentes-e-pareadas/](33-comparar-medias-independentes-e-pareadas/) | Comparar médias independentes e pareadas |
+| [34-anova-e-comparacoes-entre-grupos/](34-anova-e-comparacoes-entre-grupos/) | ANOVA e comparações entre grupos |
 | [35-aplicar-anova-e-interpretar-limites/](35-aplicar-anova-e-interpretar-limites/) | Aplicar ANOVA e interpretar limites |
 | [36-familias-de-testes-e-multiplicidade/](36-familias-de-testes-e-multiplicidade/) | Famílias de testes e multiplicidade |
 | [37-metodos-nao-parametricos-e-permutacao/](37-metodos-nao-parametricos-e-permutacao/) | Métodos não paramétricos e permutação |
